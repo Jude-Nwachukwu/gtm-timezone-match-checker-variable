@@ -1,0 +1,6 @@
+---
+homepage: https://dumbdata.co/
+documentation: https://github.com/Jude-Nwachukwu/gtm-timezone-match-checker-variable
+versions:
+  - sha: 9a338d302c67887002aeae68b50022f904dfed78
+    changeNotes: Initial release.
